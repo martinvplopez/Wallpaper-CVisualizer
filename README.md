@@ -10,10 +10,11 @@ ___
 
 #### Instrucciones
 ##### Iniciar programa, la interfaz estará dividida en 2 partes: la parte izquierda con la visualización del flujo óptico y la grabación de la cámara; parte derecha, en el modo inicial, las instrucciones con las regiones y en el caso de haber iniciado el modo *galería* se verán los wallpapers en la mitad derecha. 
-##### Para iniciar la visualización de los wallpapers se deberá tocar cualquiera de las dos regiones y luego la otra. En el modo *galería* se deberá realizar un movimiento rápido a la región para interactuar y visualizar otra imagen.
-
 
 ![Inicio](https://github.com/martinvplopez/Wallpaper-CVisualizer/blob/main/Practica_6/capInit.png)
+
+##### Para iniciar la visualización de los wallpapers se deberá tocar cualquiera de las dos regiones y luego la otra. En el modo *galería* se deberá realizar un movimiento rápido a la región para interactuar y visualizar otra imagen.
+
 ![Galería](https://github.com/martinvplopez/Wallpaper-CVisualizer/blob/main/Practica_6/capGaleria.png)
 
 #### Detalles implementación
