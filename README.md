@@ -4,6 +4,7 @@
 ___
 
 #### Introducción: Visualizador de *wallpapers* interactivo con detección de movimiento.
+#### Realizado con OpenCV y Processing
 #### Basado en los trabajos de [Bryan WC Chung](https://www.researchgate.net/publication/319307779_Pro_Processing_for_Images_and_Computer_Vision_with_OpenCV) y el algoritmo ["Two-Frame Motion Estimation Based on polynomial Expansion"](https://link.springer.com/chapter/10.1007/3-540-45103-X_50).
 ##### Una adaptación del algoritmo de detección de flujo óptico (Gunnar) con interacción mediante regiones (Chung). Esto es, analizar el movimiento relativo de los pixeles entre fotogramas consecutivos.
 
