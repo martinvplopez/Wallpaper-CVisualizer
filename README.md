@@ -13,7 +13,8 @@ ___
 ##### Para iniciar la visualización de los wallpapers se deberá tocar cualquiera de las dos regiones y luego la otra. En el modo *galería* se deberá realizar un movimiento rápido a la región para interactuar y visualizar otra imagen.
 
 
-![GIF Principal](https://github.com/martinvplopez/Sitycleta-Evolution-CIU/blob/main/interface.gif)
+![Inicio](https://github.com/martinvplopez/Sitycleta-Evolution-CIU/blob/main/interface.gif)
+![Galería](https://github.com/martinvplopez/Sitycleta-Evolution-CIU/blob/main/interface.gif)
 
 #### Detalles implementación
 - ##### **Información**: *Texto*, dispone de un buen tamaño, fuente legible con buen contraste, diseño minimalista. Al simplemente tener que gesticular sobre las regiones, el texto que indica cómo entrar en el modo *galería* es directo y conciso. También se ha añadido un *contador* de imagen para aportar información extra sobre qué wallpaper está visualizando el usuario.
