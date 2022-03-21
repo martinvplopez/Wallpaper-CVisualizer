@@ -17,6 +17,11 @@ ___
 
 ![Galería](https://github.com/martinvplopez/Wallpaper-CVisualizer/blob/main/Practica_6/capGaleria.png)
 
+
+https://user-images.githubusercontent.com/88589893/159345495-3999d20c-993d-4301-8aa3-0b197fcef18d.mp4
+
+
+
 #### Detalles implementación
 - ##### **Información**: *Texto*, dispone de un buen tamaño, fuente legible con buen contraste, diseño minimalista. Al simplemente tener que gesticular sobre las regiones, el texto que indica cómo entrar en el modo *galería* es directo y conciso. También se ha añadido un *contador* de imagen para aportar información extra sobre qué wallpaper está visualizando el usuario.
 - ##### **Color**: Se han utilizado blanco como color principal para generar una sensación de limpieza y fluidez con el movimiento. Los colores de interacción con las regiones: verde y rojo son para aportar información extra, verde significa movimiento correcto y rojo refleja que el usuario no puede avanzar o retroceder la imagen ya que está en la última o primera.
