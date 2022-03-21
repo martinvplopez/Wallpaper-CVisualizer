@@ -17,7 +17,7 @@ ___
 
 ![Galería](https://github.com/martinvplopez/Wallpaper-CVisualizer/blob/main/Practica_6/capGaleria.png)
 
-
+##### Apreciar funcionamiento completo
 https://user-images.githubusercontent.com/88589893/159345495-3999d20c-993d-4301-8aa3-0b197fcef18d.mp4
 
 
